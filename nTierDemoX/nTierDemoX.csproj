@@ -74,7 +74,7 @@
     </MonoDevelop>
   </ProjectExtensions>
   <ItemGroup>
-    <ProjectReference Include="..\DAL\BLL.csproj">
+    <ProjectReference Include="..\BLL\BLL.csproj">
       <Project>{A291A643-D2B3-47B6-900A-4ACFBD474645}</Project>
       <Name>BLL</Name>
     </ProjectReference>
